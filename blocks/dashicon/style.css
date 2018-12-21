@@ -1,0 +1,26 @@
+/**
+ * The following styles get applied both on the front of your site and in the editor.
+ *
+ * Replace them with your own styles or remove the file completely.
+ */
+ .dashicon-block-wrapper {
+	width: inherit;
+	height: inherit;
+	display: block;
+}
+
+.dashicon-block-wrapper > span {
+	display: inline-block;
+}
+
+.dashicon-block-align-left {
+	text-align: left;
+}
+
+.dashicon-block-align-center {
+	text-align: center;
+}
+
+.dashicon-block-align-right {
+	text-align: right;
+}
